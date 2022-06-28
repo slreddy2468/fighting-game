@@ -1,0 +1,14 @@
+@font-face {
+	font-family: myfirstfont;
+	src: url(higher-jump.ttf);
+}
+
+div {
+	font-family: myfirstfont;
+	color: white;
+}
+
+h2 {
+	font-family: myfirstfont;
+	color: white;
+}
